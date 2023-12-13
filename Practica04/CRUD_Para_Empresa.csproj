@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A861D4C3-634D-4329-B405-3A0592846F57}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Practica04</RootNamespace>
+    <AssemblyName>Practica01</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\clsBusca.cs" />
+    <Compile Include="Classes\ConvertImage.cs" />
+    <Compile Include="Formularios\frmClasificaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmClasificaClientes.Designer.cs">
+      <DependentUpon>frmClasificaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmClasificaDocumento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmClasificaDocumento.Designer.cs">
+      <DependentUpon>frmClasificaDocumento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmCliente.Designer.cs">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmConsultaCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmConsultaCliente.Designer.cs">
+      <DependentUpon>frmConsultaCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmDepart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmDepart.Designer.cs">
+      <DependentUpon>frmDepart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmLocalidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmLocalidad.Designer.cs">
+      <DependentUpon>frmLocalidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmPosicion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmPosicion.Designer.cs">
+      <DependentUpon>frmPosicion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmStarts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmStarts.designer.cs">
+      <DependentUpon>frmStarts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmVENCLACLIENTE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmVENCLACLIENTE.Designer.cs">
+      <DependentUpon>frmVENCLACLIENTE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmVENCLADOC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmVENCLADOC.Designer.cs">
+      <DependentUpon>frmVENCLADOC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmVENDEPTO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmVENDEPTO.Designer.cs">
+      <DependentUpon>frmVENDEPTO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmVENFABR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmVENFABR.Designer.cs">
+      <DependentUpon>frmVENFABR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmVENLOCALIDAD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmVENLOCALIDAD.Designer.cs">
+      <DependentUpon>frmVENLOCALIDAD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frmVENPOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frmVENPOS.Designer.cs">
+      <DependentUpon>frmVENPOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Menu.designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\frmClasificaClientes.resx">
+      <DependentUpon>frmClasificaClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmClasificaDocumento.resx">
+      <DependentUpon>frmClasificaDocumento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmCliente.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmConsultaCliente.resx">
+      <DependentUpon>frmConsultaCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmDepart.resx">
+      <DependentUpon>frmDepart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmLocalidad.resx">
+      <DependentUpon>frmLocalidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmPosicion.resx">
+      <DependentUpon>frmPosicion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmStarts.resx">
+      <DependentUpon>frmStarts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmVENCLACLIENTE.resx">
+      <DependentUpon>frmVENCLACLIENTE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmVENCLADOC.resx">
+      <DependentUpon>frmVENCLADOC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmVENDEPTO.resx">
+      <DependentUpon>frmVENDEPTO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmVENFABR.resx">
+      <DependentUpon>frmVENFABR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmVENLOCALIDAD.resx">
+      <DependentUpon>frmVENLOCALIDAD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmVENPOS.resx">
+      <DependentUpon>frmVENPOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Iconos\16 %28Address book%29.ico" />
+    <Content Include="Iconos\16 %28Bar chart%29.ico" />
+    <Content Include="Iconos\16 %28Bar chart-2%29.ico" />
+    <Content Include="Iconos\16 %28Card update%29.ico" />
+    <Content Include="Iconos\16 %28Dialog%29.ico" />
+    <Content Include="Iconos\16 %28Edit%29.ico" />
+    <Content Include="Iconos\16 %28Exit%29.ico" />
+    <Content Include="Iconos\16 %28Fill down%29.ico" />
+    <Content Include="Iconos\16 %28Fill left%29.ico" />
+    <Content Include="Iconos\16 %28Fill right%29.ico" />
+    <Content Include="Iconos\16 %28Fill up%29.ico" />
+    <Content Include="Iconos\16 %28Mail%29.ico" />
+    <Content Include="Iconos\16 %28Print preview%29.ico" />
+    <Content Include="Iconos\16 %28Save%29.ico" />
+    <Content Include="Iconos\16 %28Search%29.ico" />
+    <Content Include="Iconos\16 %28Sort asc%29.ico" />
+    <Content Include="Iconos\16 %28Sort asc-2%29.ico" />
+    <Content Include="Iconos\16 %28Sort desc%29.ico" />
+    <Content Include="Iconos\16 %28Sort desc-2%29.ico" />
+    <Content Include="Iconos\2downarrow.ico" />
+    <Content Include="Iconos\2uparrow.ico" />
+    <Content Include="Iconos\add-image.png" />
+    <Content Include="Iconos\apply.ico" />
+    <Content Include="Iconos\attach.png" />
+    <Content Include="Iconos\bill.png" />
+    <Content Include="Iconos\billing.png" />
+    <Content Include="Iconos\Binoculares.ico" />
+    <Content Include="Iconos\Borrar.ico" />
+    <Content Include="Iconos\Buscar.ico" />
+    <Content Include="Iconos\cajaAbierta.jpg" />
+    <Content Include="Iconos\cajaArchivo.jpg" />
+    <Content Include="Iconos\CONTACTS.JPG" />
+    <Content Include="Iconos\Deshacer.ico" />
+    <Content Include="Iconos\Excel_35742.ico" />
+    <Content Include="Iconos\exit.ico" />
+    <Content Include="Iconos\filefind.ico" />
+    <Content Include="Iconos\fileprint.ico" />
+    <Content Include="Iconos\filesaveas.ico" />
+    <Content Include="Iconos\Flecha Anterior.ico" />
+    <Content Include="Iconos\Flecha Primero.ico" />
+    <Content Include="Iconos\Flecha Siguiente.ico" />
+    <Content Include="Iconos\Flecha Ultimo.ico" />
+    <Content Include="Iconos\folder_home.png" />
+    <Content Include="Iconos\gallery.png" />
+    <Content Include="Iconos\HC-team.png" />
+    <Content Include="Iconos\image.png" />
+    <Content Include="Iconos\imagesCA528RO1.jpg" />
+    <Content Include="Iconos\imagesCAU9USZ1.jpg" />
+    <Content Include="Iconos\imagesCAUXHGEY.jpg" />
+    <Content Include="Iconos\important-mail.png" />
+    <Content Include="Iconos\invoice.png" />
+    <Content Include="Iconos\LeftArrow.jpg" />
+    <Content Include="Iconos\mail_send.png" />
+    <Content Include="Iconos\MFCCtlWiz.ico" />
+    <Content Include="Iconos\micro.ico" />
+    <Content Include="Iconos\Nuevo.ico" />
+    <Content Include="Iconos\ok.png" />
+    <Content Include="Iconos\Order.ico" />
+    <Content Include="Iconos\receipt.png" />
+    <Content Include="Iconos\refresh.png" />
+    <Content Include="Iconos\restart.png" />
+    <Content Include="Iconos\resultset_first.png" />
+    <Content Include="Iconos\resultset_last.png" />
+    <Content Include="Iconos\resultset_next.png" />
+    <Content Include="Iconos\resultset_previous.png" />
+    <Content Include="Iconos\RightArrow.jpg" />
+    <Content Include="Iconos\spellcheck.gif" />
+    <Content Include="Iconos\synchronize.png" />
+    <Content Include="Iconos\tab_remove.ico" />
+    <Content Include="Imagenes\Nutriciosa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Reportes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

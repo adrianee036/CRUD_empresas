@@ -1,0 +1,128 @@
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\bin\Debug\Practica01.exe.config
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\obj\Debug\Practica01.exe
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\obj\Debug\Practica01.pdb
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\bin\Debug\Practica01.exe
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\bin\Debug\Practica01.pdb
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\obj\Debug\Practica04.csprojResolveAssemblyReference.cache
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\obj\Debug\Practica04.csproj.GenerateResource.Cache
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\obj\Debug\Practica04.frmStarts.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\obj\Debug\Practica04.Menu.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\obj\Debug\Practica04.Properties.Resources.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 13\Practica04\Practica04\obj\Debug\Practica04.frmPosicion.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\bin\Debug\Practica01.exe.config
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica01.exe
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica01.pdb
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica04.csprojResolveAssemblyReference.cache
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica04.frmPosicion.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica04.frmStarts.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica04.Menu.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica04.Properties.Resources.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica04.csproj.GenerateResource.Cache
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\bin\Debug\Practica01.exe
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\bin\Debug\Practica01.pdb
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica04.frmVENDEPTO.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica04.Formularios.frmDepart.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica04.frmPlantas.resources
+C:\ITLA Prrogramacion I\Practicas\2022 Seccion 7\Practica04\Practica04\obj\Debug\Practica04.frmVENPLANTA.resources
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\bin\Debug\Practica01.exe.config
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\bin\Debug\Practica01.exe
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\bin\Debug\Practica01.pdb
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.csprojAssemblyReference.cache
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmPlantas.resources
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmPosicion.resources
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmStarts.resources
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmVENDEPTO.resources
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmVENPLANTA.resources
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.Menu.resources
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.Properties.Resources.resources
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.csproj.GenerateResource.cache
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.csproj.CoreCompileInputs.cache
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica01.exe
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica01.pdb
+C:\Users\ivelisse\Downloads\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmDepart.resources
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\bin\Debug\Practica01.exe.config
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\bin\Debug\Practica01.exe
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\bin\Debug\Practica01.pdb
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.csprojAssemblyReference.cache
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmDepart.resources
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmFabr.resources
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmPosicion.resources
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmStarts.resources
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmVENDEPTO.resources
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.frmVENPLANTA.resources
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.Menu.resources
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.Properties.Resources.resources
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.csproj.GenerateResource.cache
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica04.csproj.CoreCompileInputs.cache
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica01.exe
+C:\Users\ivelisse\Desktop\programacion i\Practica04\Practica04\obj\Debug\Practica01.pdb
+C:\Users\forde\Downloads\Practica04\Practica04\bin\Debug\Practica01.exe.config
+C:\Users\forde\Downloads\Practica04\Practica04\bin\Debug\Practica01.exe
+C:\Users\forde\Downloads\Practica04\Practica04\bin\Debug\Practica01.pdb
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.csprojAssemblyReference.cache
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmDepart.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmFabr.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmPosicion.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmStarts.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENDEPTO.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENFABR.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENPOS.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.Menu.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.Properties.Resources.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.csproj.GenerateResource.cache
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.csproj.CoreCompileInputs.cache
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica01.exe
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica01.pdb
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmLocalidad.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENLOCALIDAD.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmClasificaDocumento.resources
+C:\Users\forde\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENCLADOC.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\bin\Debug\Practica01.exe.config
+C:\Users\ivelisse\Downloads\Practica04\Practica04\bin\Debug\Practica01.exe
+C:\Users\ivelisse\Downloads\Practica04\Practica04\bin\Debug\Practica01.pdb
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.csprojAssemblyReference.cache
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmClasificaDocumento.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmDepart.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmFabr.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmLocalidad.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmPosicion.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmStarts.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENCLADOC.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENDEPTO.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENFABR.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENLOCALIDAD.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENPOS.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.Menu.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.Properties.Resources.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.csproj.GenerateResource.cache
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.csproj.CoreCompileInputs.cache
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica01.exe
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica01.pdb
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmClasificaClientes.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENCLACLIENTE.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmCliente.resources
+C:\Users\ivelisse\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmConsultaCliente.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\bin\Debug\Practica01.exe.config
+C:\Users\adrianee\Downloads\Practica04\Practica04\bin\Debug\Practica01.exe
+C:\Users\adrianee\Downloads\Practica04\Practica04\bin\Debug\Practica01.pdb
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.csprojAssemblyReference.cache
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmClasificaClientes.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmClasificaDocumento.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmCliente.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmConsultaCliente.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmLocalidad.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmPosicion.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmStarts.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENCLACLIENTE.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENCLADOC.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENDEPTO.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENFABR.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENLOCALIDAD.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmVENPOS.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.Menu.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.Properties.Resources.resources
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.csproj.GenerateResource.cache
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.csproj.CoreCompileInputs.cache
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica01.exe
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica01.pdb
+C:\Users\adrianee\Downloads\Practica04\Practica04\obj\Debug\Practica04.frmDepart.resources
